@@ -1,0 +1,64 @@
+{
+  "softclinica": {
+    "planos": [
+      {
+        "id": 1,
+        "nome": "Padrão",
+        "valor": 87.54,
+        "tipoCobranca": "/usuário/mês, cobrado anualmente",
+        "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
+        "recomendado": false
+      },
+      {
+        "id": 2,
+        "nome": "Profissional",
+        "valor": 109.29,
+        "tipoCobranca": "/usuário/mês, cobrado anualmente",
+        "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
+        "recomendado": false
+      },
+      {
+        "id": 3,
+        "nome": "Empresarial",
+        "valor": 139.41,
+        "tipoCobranca": "/usuário/mês, cobrado anualmente",
+        "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
+        "recomendado": true
+      },
+      {
+        "id": 4,
+        "nome": "Corporativo",
+        "valor": 169.60,
+        "tipoCobranca": "/usuário/mês, cobrado anualmente",
+        "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
+        "recomendado": false
+      }
+    ],
+    "perguntas": [
+      {
+        "pergunta": "O que é o SoftClinica?",
+        "resposta": "O SoftClinica é um software de gestão de clínicas e consultórios que ajuda a organizar e otimizar o atendimento de pacientes, a gestão de prontuários e a administração financeira."
+      },
+      {
+        "pergunta": "Quais são os benefícios do SoftClinica?",
+        "resposta": "O SoftClinica oferece diversos benefícios, como: agendamento online, prontuário eletrônico, controle de estoque, emissão de notas fiscais, relatórios gerenciais, entre outros."
+      },
+      {
+        "pergunta": "Como faço para contratar o SoftClinica?",
+        "resposta": "Para contratar o SoftClinica, basta acessar o site oficial da empresa e escolher o plano que melhor atende às suas necessidades. Em seguida, é só preencher o cadastro e efetuar o pagamento."
+      },
+      {
+        "pergunta": "O SoftClinica é seguro?",
+        "resposta": "Sim, o SoftClinica é um software seguro que utiliza criptografia de ponta a ponta para proteger os dados dos usuários. Além disso, a empresa realiza backups periódicos para garantir a integridade das informações."
+      },
+      {
+        "pergunta": "O SoftClinica oferece suporte técnico?",
+        "resposta": "Sim, o SoftClinica oferece suporte técnico por telefone, chat e e-mail. A equipe de atendimento está disponível de segunda a sexta-feira, das 9h às 18h, para ajudar os usuários com dúvidas e problemas técnicos."
+      },
+      {
+        "pergunta": "Posso cancelar o SoftClinica a qualquer momento?",
+        "resposta": "Sim, o SoftClinica permite o cancelamento a qualquer momento, sem cobrança de multa ou taxa de cancelamento. Basta entrar em contato com a equipe de atendimento e solicitar o cancelamento do serviço."
+      }
+    ]
+  }
+}
