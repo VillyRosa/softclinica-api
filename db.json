@@ -7,7 +7,8 @@
         "valor": 87.54,
         "tipoCobranca": "/usuário/mês, cobrado anualmente",
         "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
-        "recomendado": false
+        "recomendado": false,
+        "funcionalidades": [1, 4, 7]
       },
       {
         "id": 2,
@@ -15,7 +16,8 @@
         "valor": 109.29,
         "tipoCobranca": "/usuário/mês, cobrado anualmente",
         "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
-        "recomendado": false
+        "recomendado": false,
+        "funcionalidades": [2, 5, 8]
       },
       {
         "id": 3,
@@ -23,7 +25,8 @@
         "valor": 139.41,
         "tipoCobranca": "/usuário/mês, cobrado anualmente",
         "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
-        "recomendado": true
+        "recomendado": true,
+        "funcionalidades": [3, 6, 9]
       },
       {
         "id": 4,
@@ -31,7 +34,8 @@
         "valor": 169.60,
         "tipoCobranca": "/usuário/mês, cobrado anualmente",
         "curtaDescricao": "Automatize e otimize seu ciclo de vendas",
-        "recomendado": false
+        "recomendado": false,
+        "funcionalidades": [1, 4, 7]
       }
     ],
     "perguntas": [
@@ -58,6 +62,68 @@
       {
         "pergunta": "Posso cancelar o SoftClinica a qualquer momento?",
         "resposta": "Sim, o SoftClinica permite o cancelamento a qualquer momento, sem cobrança de multa ou taxa de cancelamento. Basta entrar em contato com a equipe de atendimento e solicitar o cancelamento do serviço."
+      }
+    ],
+    "funcionalidades": [
+      {
+        "categoria": "Automação da força de vendas",
+        "funcoes": [
+          {
+            "id": 1,
+            "nome": "Módulos básicos",
+            "descricao": "Gerencie seu ciclo de vendas completo coletando e centralizando dados em etapas relevantes com esses módulos padrão de Leads, Contatos, Acordos e Contas."
+          },
+          {
+            "id": 2,
+            "nome": "Automação de vendas",
+            "descricao": "Automatize tarefas repetitivas, como o envio de e-mails, a geração de propostas e a criação de tarefas, para que sua equipe possa se concentrar em fechar negócios."
+          },
+          {
+            "id": 3,
+            "nome": "Previsão de vendas",
+            "descricao": "Obtenha insights sobre o desempenho de vendas e preveja resultados futuros com relatórios e painéis personalizáveis."
+          }
+        ]
+      },
+      {
+        "categoria": "Atendimento ao cliente",
+        "funcoes": [
+          {
+            "id": 4,
+            "nome": "Central de atendimento",
+            "descricao": "Centralize todas as interações com os clientes em um único local para garantir um atendimento eficiente e personalizado."
+          },
+          {
+            "id": 5,
+            "nome": "Automação de atendimento",
+            "descricao": "Automatize respostas a perguntas frequentes e forneça suporte 24/7 com chatbots e assistentes virtuais."
+          },
+          {
+            "id": 6,
+            "nome": "Gestão de contratos",
+            "descricao": "Gerencie contratos de clientes, fornecedores e parceiros em um único lugar, com alertas de renovação e integração com o CRM."
+          }
+        ]
+      },
+      {
+        "categoria": "Gestão de estoque",
+        "funcoes": [
+          {
+            "id": 7,
+            "nome": "Controle de estoque",
+            "descricao": "Gerencie o estoque de produtos, registre entradas e saídas, controle o nível de estoque mínimo e máximo e receba alertas de reposição."
+          },
+          {
+            "id": 8,
+            "nome": "Rastreabilidade de produtos",
+            "descricao": "Registre a origem e o destino de cada produto, acompanhe o histórico de movimentação e garanta a qualidade e a segurança dos itens."
+          },
+          {
+            "id": 9,
+            "nome": "Gestão de fornecedores",
+            "descricao": "Cadastre e gerencie fornecedores, registre contratos e acordos comerciais, e mantenha um relacionamento transparente e eficiente."
+          }
+        ]
       }
     ]
   }
